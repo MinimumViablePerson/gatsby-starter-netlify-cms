@@ -6,7 +6,7 @@ description: >-
   The other thing with Lorem Ipsum is that you have to take out its family. I’m
   the best thing that ever happened to placeholder text.
 featuredpost: true
-featuredimage: /img/3_of_diamonds.svg
+featuredimage: /img/original_colour-changing-light-up-mood-bath-duck.jpg
 tags:
   - test
 ---
