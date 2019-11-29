@@ -12,6 +12,8 @@ tags:
 ---
 An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud. I think the only card she has is the Lorem card. Lorem Ipsum is unattractive, both inside and out. I fully understand why it’s former users left it for something else. They made a good decision.
 
+![covfefe](/img/original_colour-changing-light-up-mood-bath-duck.jpg "covfefe")
+
 If Trump Ipsum weren’t my own words, perhaps I’d be dating it.
 
 You know, it really doesn’t matter what you write as long as you’ve got a young, and beautiful, piece of text. I think the only difference between me and the other placeholder text is that I’m more honest and my words are more beautiful. Be careful, or I will spill the beans on your placeholder text.
